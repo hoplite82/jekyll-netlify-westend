@@ -9,3 +9,8 @@ john_doe:
     name: John Doe
     email: johndoe@email.com
     web: http://twitter.com/johndoe
+
+Robert_Pratersch:
+    name: Robert Pratersch
+    email: robert@pratersch.de
+    web: http://pratersch.de
